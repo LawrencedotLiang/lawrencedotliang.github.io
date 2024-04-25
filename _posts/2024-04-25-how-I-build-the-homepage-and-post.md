@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to build my simple GitHub Blog and Page"
+title: "How to build my simple GitHub Blog and Posts"
 date: 2024-04-16
 ---
 I have to say creating a blog was the main objective of one of my assignment question, but more so, it was to facilitate better ongoing learning like I said in previous post. Creating a blog allows for the organization of many thoughts during the learning process, 
