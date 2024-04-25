@@ -8,4 +8,4 @@ If you are interested in my experience, you can find it in [About Me].<br>
 
 Hope you guys enjoy the contents here~<br>
 
-[About-Me]: https://lawrencedotliang.github.io/about/
+[About Me]: https://lawrencedotliang.github.io/about/
