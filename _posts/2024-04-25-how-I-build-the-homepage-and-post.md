@@ -25,7 +25,7 @@ I also encountered several issues along the way. The initial problem was setting
   Hope you guys enjoy it~
   {% endhighlight %}
 the generated HTML on GitHub showed duplicate titles and no line break:  
-<img src="_posts/images/1b.jpg"/>  
+<img src="images/1b.jpg">  
 I also encountered issues with line breaks, initially tried to solve these issues using LaTeX methods but it did not work, 
 then sought a line-break equivalent in LaTeX and learned how to create titles by studying minima's original files. After learning from these original source files, I understood how to post an article, add images, and list items using `\begin{itemize}` in LaTeX, enabling me to better format my blog and more quickly build my own.  
 
