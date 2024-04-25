@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to build my simple GitHub Blog and Posts"
-date: 2024-04-16
+date: 2024-04-25
 ---
 I have to say creating a blog was the main objective of one of my assignment question, but more so, it was to facilitate better ongoing learning like I said in previous post. Creating a blog allows for the organization of many thoughts during the learning process, 
 which can be reviewed later. This includes the current assignment, and I will subsequently post about some of the difficulties I encountered while creating a GitHub blog.  
@@ -25,7 +25,7 @@ I also encountered several issues along the way. The initial problem was setting
   Hope you guys enjoy it~
   {% endhighlight %}
 the generated HTML on GitHub showed duplicate titles and no line break:  
-<img src="images/1b.jpg"/>  
+<img src="_posts/images/1b.jpg"/>  
 I also encountered issues with line breaks, initially tried to solve these issues using LaTeX methods but it did not work, 
 then sought a line-break equivalent in LaTeX and learned how to create titles by studying minima's original files. After learning from these original source files, I understood how to post an article, add images, and list items using `\begin{itemize}` in LaTeX, enabling me to better format my blog and more quickly build my own.  
 
