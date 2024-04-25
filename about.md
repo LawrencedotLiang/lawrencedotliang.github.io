@@ -4,7 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This is Lawrence, a Master student studying electrical engineering at the University of Queensland in Australia, I finished my Bachelor degree in University of New South Wales. Also, I have completed internships in various fields, for example, I worked as a Retail Management Assistant at a Chinese bank, and I interned at an Australian solar energy company, where I was involved in designing residential solar systems etc.<br>
+This is Lawrence, a Master student studying electrical engineering at the University of Queensland in Australia, I finished my Bachelor degree in University of New South Wales.<br>
+
+I have completed internships in various fields, for example, I worked as a Retail Management Assistant at a Chinese bank, and I interned at an Australian solar energy company, where I was involved in designing residential solar systems and after-sell services etc.<br>
 
 I focused on the thesis topic in my Bachelor degree and it is about the physical layer security of Orthogonal Time Frequency Space Modulation (OTFS), a novel technology has been proved significant advantages over the traditional Orthogonal Frequency Division Multiplexing (OFDM) modulation used in 4G and 5G in high Doppler environments, which achieves better spectral efficiency due to its ability to mitigate inter-symbol interference (ISI) and inter-carrier interference (ICI). <br>
 
